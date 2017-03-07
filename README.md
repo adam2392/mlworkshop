@@ -10,7 +10,10 @@ Then I will emphasize the importance of communication and patience in collaborat
 
 # Agenda
 ## 0: Download Necessary Software
-
+## 1: Download Datasets
+## 2: Summarize and Understand Raw Data
+## 3: Apply and Understand ML Techniques
+## 4: Understand Limitations in ML Techniques
 
 ## 0: Download Necessary Software
 1. Anaconda: https://www.continuum.io/downloads
@@ -31,7 +34,13 @@ http://biostat.mc.vanderbilt.edu/wiki/pub/Main/DataSets/Cacath.html
 
 ## 2: Summarize and Plot Data
 
+
+
 ## Discussion:
 What is important in machine learning applied to data?
 
 ![alt tag](./figures/mltruth.png)
+
+## Wrap Up:
+Please fill out this survey!
+https://goo.gl/forms/vf8BRFCCyxKv6R2w2
