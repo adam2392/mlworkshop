@@ -44,8 +44,11 @@ A good way to do this, is to just visualize it!
 
 There are a plethora of ML techniques out there ranging from simple to complex. 
 
-As we said in our powerpoint, 
+As we said in our powerpoint, there are supervised and unsupervised algorithms. There are classification vs regression problems. Each of these solve a different problem, and require some basic knowledge to understand the parameters that feed into the algorithm.
 
+## 4: Understand ML Limitations
+
+Each algorithm is built on different assumptions. Bad data in equals bad analysis out.
 
 
 ## Discussion:
